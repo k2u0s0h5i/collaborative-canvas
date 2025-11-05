@@ -1,0 +1,23 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server/server.js",
+  "scripts": {
+    "dev": "nodemon server/server.js",
+    "start": "node server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Real-time collaborative drawing canvas using Node.js and Socket.io",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "nanoid": "^5.1.6",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
