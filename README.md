@@ -23,7 +23,6 @@ This project showcases both **frontend development skills** (Canvas API, UI desi
 |-------|--------------------|
 | **Frontend** | HTML5, CSS3, Vanilla JavaScript (Canvas API) |
 | **Backend** | Node.js, Express.js, Socket.IO |
-| **Tools** | Nodemon, Git, VS Code |
 
 ---
 
