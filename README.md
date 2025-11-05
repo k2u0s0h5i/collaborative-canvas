@@ -14,8 +14,6 @@ This project showcases both **frontend development skills** (Canvas API, UI desi
 ✅ **Color & Brush Controls** – Choose color and adjust stroke width  
 ✅ **Eraser & Clear Canvas** – Erase smoothly or reset the board  
 ✅ **User Display** – Shows connected users in real-time  
-✅ **Modern UI Design** – Tool panel on the left, user list on the top-right  
-✅ **Responsive Design** – Optimized for both desktop and tablets  
 
 ---
 
